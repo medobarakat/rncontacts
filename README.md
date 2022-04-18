@@ -1,3 +1,3 @@
 # rncontacts
 
-## all features by : react-native app..
+## all features by : react-native app
